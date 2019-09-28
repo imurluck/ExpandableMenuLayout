@@ -1,0 +1,2 @@
+include ':app', ':expandable-menu-layout'
+rootProject.name='ExpandableMenuLayout'
